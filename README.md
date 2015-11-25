@@ -1,4 +1,5 @@
 # observations
 
 ## Elasticsearch
-  логи - /var/log/elasticsearch
+  логи 
+      /var/log/elasticsearch
