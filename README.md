@@ -1,5 +1,7 @@
 # observations
 
 ## Elasticsearch
-  логи 
-      /var/log/elasticsearch
+   логи 
+    ```
+    tail -f /var/log/elasticsearch
+    ```
