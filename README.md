@@ -20,7 +20,9 @@ start-stop-daemon --pidfile "$PID_FILE" --make-pidfile --background --exec $DAEM
   понятия не имею почему питон верно интерпретирует время
 
 ## rabbitmq
+   ```
    rabbitmqctl add_user "my_smy_DEV" "khsaagGHHgasdgjahah238gG7ga"
    rabbitmqctl add_vhost "my_smy_DEV"
    rabbitmqctl set_permissions -p my_smy_DEV "my_smy_DEV" ".*" ".*" ".*"
+   ```
    
